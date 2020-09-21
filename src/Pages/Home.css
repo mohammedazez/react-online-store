@@ -1,0 +1,19 @@
+.input-group.md-form.form-sm.form-1 input {
+  border: 1px solid #bdbdbd;
+  border-top-right-radius: 0.25rem;
+  border-bottom-right-radius: 0.25rem;
+}
+
+.container-kategori {
+  padding: 80px;
+}
+
+.container-cari {
+  padding: 30px;
+  padding-left: 230px;
+}
+
+/* .posisi-cari {
+  text-align: center;
+  padding-left: 00px;
+} */
